@@ -1,4 +1,3 @@
 # adnik
 
-Diese Repo dient dem Ausprobieren.
-Erstellt von [@nikja05](https://www.github.com/nikja05) und [@adho08](https://www.github.com/adho08). 
+This repository serves the creative outbursts of [@nikja05](https://www.github.com/nikja05) and [@adho08](https://www.github.com/adho08). 
